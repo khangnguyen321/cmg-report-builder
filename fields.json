@@ -1,0 +1,77 @@
+[
+  [
+    "site",
+    "Site / Building Code",
+    "text"
+  ],
+  [
+    "owner",
+    "Project Owner",
+    "text"
+  ],
+  [
+    "contractor",
+    "Contractor",
+    "text"
+  ],
+  [
+    "ownership",
+    "Owned or Leased",
+    "select"
+  ],
+  [
+    "status",
+    "Status",
+    "select"
+  ],
+  [
+    "progress",
+    "Percent Complete",
+    "number"
+  ],
+  [
+    "start",
+    "Start Date",
+    "date"
+  ],
+  [
+    "contractEnd",
+    "Contract End Date",
+    "date"
+  ],
+  [
+    "forecast",
+    "Forecast Completion",
+    "date"
+  ],
+  [
+    "weekly",
+    "This Week\u2019s Update",
+    "textarea"
+  ],
+  [
+    "next",
+    "Next Action / Due Date",
+    "textarea"
+  ],
+  [
+    "issues",
+    "Risks / Open Issues",
+    "textarea"
+  ],
+  [
+    "decision",
+    "Director Decision Needed",
+    "textarea"
+  ],
+  [
+    "closeout",
+    "Closeout / Payment Update",
+    "textarea"
+  ],
+  [
+    "confirmed",
+    "Update Confirmed On",
+    "date"
+  ]
+]
